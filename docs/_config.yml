@@ -23,7 +23,7 @@ github_username:  kaiolae
 github: [metadata]
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
