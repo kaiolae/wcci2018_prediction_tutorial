@@ -63,5 +63,10 @@ In order to succesfully run the code examples from this tutorial, please install
 * [Jupyter Notebooks](http://jupyter.org/install) and [Python 3](https://www.python.org/downloads/)
 * The latest versions of [Keras](https://keras.io/#installation), including one of Keras' backends, such as [TensorFlow](https://www.tensorflow.org/install/).
 * The python packages [numpy, matplotlib and pandas](https://scipy.org/install.html).
+* [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
-To test if your setup is working, you can try running our code samples at [TODO: Insert link]
+To test if your setup is working, you can try running our code samples at our [GitHub repository](https://github.com/kaiolae/wcci2018_prediction_tutorial). The following steps should get you started:
+
+* git clone https://github.com/kaiolae/wcci2018_prediction_tutorial.git
+* navigate to the folder containing the Jupyter Notebook you want to test. e.g. cd notebooks/continuing_sequences
+* start Jupyter with command: jupyter notebooks
