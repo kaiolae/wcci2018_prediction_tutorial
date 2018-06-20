@@ -64,6 +64,10 @@ In order to succesfully run the code examples from this tutorial, please install
 * The latest versions of [Keras](https://keras.io/#installation), including one of Keras' backends, such as [TensorFlow](https://www.tensorflow.org/install/).
 * The python packages [numpy, matplotlib and pandas](https://scipy.org/install.html).
 * [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+* The [scikit-learn](http://scikit-learn.org/stable/install.html) and [pandasql](https://github.com/yhat/pandasql) libraries.
+
+Alternatively, you can use [Anaconda](https://www.anaconda.com/) to create isolated environments and install all the required libraries including python itself without interfering with previous installations. 
+
 
 To test if your setup is working, you can try running our code samples at our [GitHub repository](https://github.com/kaiolae/wcci2018_prediction_tutorial). The following steps should get you started:
 
