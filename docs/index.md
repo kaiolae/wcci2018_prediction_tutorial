@@ -73,4 +73,4 @@ To test if your setup is working, you can try running our code samples at our [G
 
 * git clone https://github.com/kaiolae/wcci2018_prediction_tutorial.git
 * navigate to the folder containing the Jupyter Notebook you want to test. e.g. cd notebooks/continuing_sequences
-* start Jupyter with command: jupyter notebooks
+* start Jupyter with command: `jupyter notebook`
