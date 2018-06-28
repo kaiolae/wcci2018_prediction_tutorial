@@ -56,7 +56,7 @@ During the tutorial you are welcome to follow along with the code examples on th
 
 * [Jupyter Notebooks](http://jupyter.org/install) and [Python 3](https://www.python.org/downloads/)
 * The latest versions of [Keras](https://keras.io/#installation), including one of Keras' backends. We use [TensorFlow](https://www.tensorflow.org/install/).
-** Note: We will only be needing CPU-powered calculations for this tutorial. The CPU-only deep learning libraries are usually much easier to install than the full GPU versions.
+  * Note: We will only be needing CPU-powered calculations for this tutorial. The CPU-only deep learning libraries are usually much easier to install than the full GPU versions.
 * The python packages [numpy, matplotlib and pandas](https://scipy.org/install.html).
 * [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 * The [scikit-learn](http://scikit-learn.org/stable/install.html) and [pandasql](https://github.com/yhat/pandasql) libraries.
