@@ -63,7 +63,6 @@ During the tutorial you are welcome to follow along with the code examples on th
 Alternatively, you can use [Anaconda](https://www.anaconda.com/) to create isolated environments and install all the required libraries including python itself without interfering with previous installations. [This instruction](http://inmachineswetrust.com/posts/deep-learning-setup/) may be helpful to install the relevant Python libraries with Anaconda.
 
 You'll need to try installing this before the tutorial if you want it to work, as we won't have much time to help participants get set up. If you prefer, you can also follow along with our code without running it, for the [first](https://github.com/kaiolae/wcci2018_prediction_tutorial/blob/master/notebooks/activity_recognition/1%20-%20data_exploration.ipynb), [second](https://github.com/kaiolae/wcci2018_prediction_tutorial/blob/master/notebooks/activity_recognition/2%20-%20classification.ipynb) and [third](https://github.com/kaiolae/wcci2018_prediction_tutorial/blob/master/notebooks/continuing_sequences/charRNN-star-trek-titles.ipynb) part of the tutorial. We're happy to help you after the end of the tutorial if you would like!
->>>>>>> ac593f921bb3f02cf14da5536af5f8ae1f34bca9
 
 #### Test Your Setup
 
