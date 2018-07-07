@@ -8,7 +8,7 @@ The goal of this tutorial is to apply predictive machine learning models to huma
 
 ![]({{ site.baseurl }}/assets/predictive-interaction.png)
 
-In this tutorial, we will show that ML models can be applied to many interactive applications to enhance users’ experience and engagement. We will demonstrate how sensor and user interaction data can be collected and investigated, modelled using classical ML and DNNs, and where predictions of these models can feed back into an interface. We will walk through these processes using live-coded demonstrations with Python code in Jupyter Notebooks so participants will be able to see our investigations live and take the example code home to apply in their own projects.
+In this tutorial, we will show that ML models can be applied to many interactive applications to enhance users’ experience and engagement. We will demonstrate how sensor and user interaction data can be collected and investigated, modelled using classical ML and DNNs, and where predictions of these models can feed back into an interface. We will walk through these processes using Python code in Jupyter Notebooks so participants will be able to see our investigations live and take the example code home to apply in their own projects.
 
 ### Outline of Covered Material
 This tutorial will focus on applications of predictive ML techniques to user interaction data. Prediction could be said to be the generation of unknown data from current and previous sensor data. In user interaction, we generally deal with sequences of data, but the predictions can relate to future elements of the sequence (forecasting) or a present, but unknown sequence (classification or segmentation). Models for making these predictions can operate using just the present sample (non-temporal models) or using a history of previous knowledge (temporal models).
@@ -31,7 +31,6 @@ The session schedule will be as follows:
 - What is a prediction?
 - Forecasting, classification, and sequence learning.
 - Temporal and non-temporal models.
-- Forward models and bio-inspired prediction.
 
 **Data Collection and Investigation (10 minutes)**
 - Collecting data from smartphone sensors.
@@ -60,9 +59,9 @@ During the tutorial you are welcome to follow along with the code examples on th
 * [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 * The [scikit-learn](http://scikit-learn.org/stable/install.html) and [pandasql](https://github.com/yhat/pandasql) libraries.
 
-Alternatively, you can use [Anaconda](https://www.anaconda.com/) to create isolated environments and install all the required libraries including python itself without interfering with previous installations. 
+Alternatively, you can use [Anaconda](https://www.anaconda.com/) to create isolated environments and install all the required libraries including python itself without interfering with previous installations.
 
-You'll need to try installing this before the tutorial if you want it to work, as we won't have much time to help participants get set up. If you prefer, you can also follow along with our code without running it, for the [first](TODO LINK) and [second](https://github.com/kaiolae/wcci2018_prediction_tutorial/blob/master/notebooks/continuing_sequences/charRNN-star-trek-titles.ipynb) part pof the tutorial. We're happy to help you after the end of the tutorial if you would like! 
+You'll need to try installing this before the tutorial if you want it to work, as we won't have much time to help participants get set up. If you prefer, you can also follow along with our code without running it, for the [first](TODO LINK) and [second](https://github.com/kaiolae/wcci2018_prediction_tutorial/blob/master/notebooks/continuing_sequences/charRNN-star-trek-titles.ipynb) part pof the tutorial. We're happy to help you after the end of the tutorial if you would like!
 
 #### Test Your Setup
 
@@ -71,4 +70,3 @@ To test if your setup is working, you can try running our code samples at our [G
 * `git clone https://github.com/kaiolae/wcci2018_prediction_tutorial.git`
 * navigate to the folder containing the Jupyter Notebook you want to test. e.g. `cd notebooks/continuing_sequences`
 * start Jupyter with command: `jupyter notebook`
-
