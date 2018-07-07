@@ -72,3 +72,7 @@ To test if your setup is working, you can try running our code samples at our [G
 * `git clone https://github.com/kaiolae/wcci2018_prediction_tutorial.git`
 * navigate to the folder containing the Jupyter Notebook you want to test. e.g. `cd notebooks/continuing_sequences`
 * start Jupyter with command: `jupyter notebook`
+
+### Links to our Presentations
+
+* [Continuing Creative Sequences](https://docs.google.com/presentation/d/e/2PACX-1vRBAEINHhMtUOsWBn7dGz8zPVWmzuXxBd4vkAJGTeyvJvZVRx89wWcISnYdz3NFurJr0jZTfiY5mdZ3/pub?start=false&loop=false&delayms=3000&slide=id.g2922593580_0_6)
