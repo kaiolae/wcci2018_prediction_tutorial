@@ -54,14 +54,16 @@ The session schedule will be as follows:
 During the tutorial you are welcome to follow along with the code examples on the screen, or to try to run them yourself on your own computer. If you want to run the code examples from this tutorial, please install the following software:
 
 * [Jupyter Notebooks](http://jupyter.org/install) and [Python 3](https://www.python.org/downloads/)
-* The latest versions of [Keras](https://keras.io/#installation), including one of Keras' backends, such as [TensorFlow](https://www.tensorflow.org/install/).
+* The latest versions of [Keras](https://keras.io/#installation), including one of Keras' backends. We use [TensorFlow](https://www.tensorflow.org/install/).
+  * Note: We will only be needing CPU-powered calculations for this tutorial. The CPU-only deep learning libraries are usually much easier to install than the full GPU versions.
 * The python packages [numpy, matplotlib and pandas](https://scipy.org/install.html).
 * [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 * The [scikit-learn](http://scikit-learn.org/stable/install.html) and [pandasql](https://github.com/yhat/pandasql) libraries.
 
-Alternatively, you can use [Anaconda](https://www.anaconda.com/) to create isolated environments and install all the required libraries including python itself without interfering with previous installations.
+Alternatively, you can use [Anaconda](https://www.anaconda.com/) to create isolated environments and install all the required libraries including python itself without interfering with previous installations. [This instruction](http://inmachineswetrust.com/posts/deep-learning-setup/) may be helpful to install the relevant Python libraries with Anaconda.
 
-You'll need to try installing this before the tutorial if you want it to work, as we won't have much time to help participants get set up. If you prefer, you can also follow along with our code without running it, for the [first](TODO LINK) and [second](https://github.com/kaiolae/wcci2018_prediction_tutorial/blob/master/notebooks/continuing_sequences/charRNN-star-trek-titles.ipynb) part pof the tutorial. We're happy to help you after the end of the tutorial if you would like!
+You'll need to try installing this before the tutorial if you want it to work, as we won't have much time to help participants get set up. If you prefer, you can also follow along with our code without running it, for the [first](https://github.com/kaiolae/wcci2018_prediction_tutorial/blob/master/notebooks/activity_recognition/1%20-%20data_exploration.ipynb), [second](https://github.com/kaiolae/wcci2018_prediction_tutorial/blob/master/notebooks/activity_recognition/2%20-%20classification.ipynb) and [third](https://github.com/kaiolae/wcci2018_prediction_tutorial/blob/master/notebooks/continuing_sequences/charRNN-star-trek-titles.ipynb) part of the tutorial. We're happy to help you after the end of the tutorial if you would like!
+>>>>>>> ac593f921bb3f02cf14da5536af5f8ae1f34bca9
 
 #### Test Your Setup
 
