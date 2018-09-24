@@ -76,6 +76,6 @@ To test if your setup is working, you can try running our code samples at our [G
 
 * [Continuing Creative Sequences](https://docs.google.com/presentation/d/e/2PACX-1vRBAEINHhMtUOsWBn7dGz8zPVWmzuXxBd4vkAJGTeyvJvZVRx89wWcISnYdz3NFurJr0jZTfiY5mdZ3/pub?start=false&loop=false&delayms=3000&slide=id.g2922593580_0_6)
 
-###Acknowledgement
+### Acknowledgement
 
 This work is partially supported by the Norwegian Centre for International Cooperation in Education (SIU) as a part of the project Rio Grande do Sul and Oslo collaboration on AI and Robotics (ROCAIR) project, under grant agreement 10128; by Research Council of Norway (RCN) and SIU as a part of the project Collaboration on Intelligent Machines (COINMAC) project, under grant agreement 261645 and partially supported by RCN as a part of the Engineering Predictability with Embodied Cognition (EPEC) project, under grant agreement 240862.
